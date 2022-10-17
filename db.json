@@ -1,5 +1,62 @@
 {
-  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "profile": { "name": "typicode" }
+  "employees": [
+    {
+      "id": 1,
+      "firstaName": "mr",
+      "lastName": "y",
+      "email": "mry@gmail.com",
+      "adharNumber": "123412341234",
+      "dob": "01/01/1999",
+      "gender": "male",
+      "contactNumber": "9856320147",
+      "emergencyContactNum": "9856320147",
+      "address": "mry mry house",
+      "maritalStatus": "single",
+      "designation": "ReactJS Dev",
+      "position": "Employee",
+      "departmentName": "Frontend Development",
+      "vehicleNumber": "gj05mr8880",
+      "degree": "BE",
+      "collegeName": "SSASIT",
+      "passingYear": "2021"
+    },
+    {
+      "firstName": "fdfs",
+      "lastName": "dfdf",
+      "email": "mry@gmail.com",
+      "adharNumber": "56565656565",
+      "dob": "2022-10-02",
+      "gender": "true",
+      "contactNumber": "12354684654",
+      "address": "jkal",
+      "maritalStatus": "single",
+      "designation": "ReactJS",
+      "position": "Employee",
+      "departmentName": "Frontend",
+      "vehicleNumber": "gj05mr8880",
+      "degree": "BE",
+      "collegeName": "SSASIT",
+      "passingYear": "2021",
+      "id": 2
+    },
+    {
+      "firstName": "fdfs",
+      "lastName": "dfdf",
+      "email": "mry@gmail.com",
+      "adharNumber": "56565656565",
+      "dob": "2022-10-02",
+      "gender": "true",
+      "contactNumber": "12354684654",
+      "address": "jkal",
+      "maritalStatus": "single",
+      "designation": "ReactJS",
+      "position": "Employee",
+      "departmentName": "Frontend",
+      "vehicleNumber": "gj05mr8880",
+      "degree": "BE",
+      "collegeName": "SSASIT",
+      "passingYear": "2021",
+      "id": 3
+    }
+  ]
 }
